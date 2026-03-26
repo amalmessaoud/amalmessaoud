@@ -1,86 +1,105 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F7AEA,100:E9D8FD&height=200&section=header&text=Amal%20Messaoud&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:E9D5FF&height=220&section=header&text=Messaoud%20Amal&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=AI+Engineer+in+progress;Frontend+Developer;Building+cool+stuff;Hackathon+lover" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+Student;AI+%26+ML+Enthusiast;Building+Real+World+AI+Systems;Hackathons+%26+Innovation" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 Computer Science student (3rd year)
-- 🧠 Learning **Machine Learning & AI systems**
-- 💻 Building **full-stack apps with Next.js**
-- 🚀 Interested in **RAG, LLMs & real-world AI**
-- 🎯 Goal: build impactful AI-powered products
+I am a fourth-year Computer Science engineering student specializing in Intelligent Systems and Data, with a strong focus on machine learning and modern AI paradigms including Natural Language Processing and agentic systems. I enjoy translating theoretical concepts into real-world applications through hands-on projects, datathons, and system design. My work spans from building full-stack platforms to developing end-to-end AI pipelines, with a particular interest in creating reliable, explainable, and production-ready intelligent systems. I am currently seeking AI-oriented internship opportunities where I can deepen my expertise and contribute to impactful, data-driven solutions.
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 🧠 AI / ML
+## 🧠 AI & Data
 
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-C4B5FD?style=for-the-badge&logo=pandas&logoColor=black)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-A78BFA?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-E9D5FF?style=for-the-badge&logo=huggingface&logoColor=black)
+
+🟣 NLP • LLM Prompting • Agentic Systems • Multi-Agent Design  
+🟣 Data Analysis • Feature Engineering • Model Evaluation  
 
 ---
 
-## 🛠 Dev Stack
+## 🛠 Engineering Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-C4B5FD?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E9D8FD?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-6D28D9?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-E9D5FF?style=for-the-badge)
+
+🟣 Full-Stack Development • REST APIs • WebSockets  
+🟣 System Design • Scalable Architectures  
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-| Project | Description | Stack |
-|--------|------------|------|
-| [Cheqit](https://github.com/amalmessaoud/cheqit) | Habit accountability app with groups & stats | Next.js, MongoDB |
-| [AI Scam Detector](https://github.com//project) | Classifies scam messages in Algerian dialect | Python, ML |
-| [RAG System](https://github.com/amalmessaoud/project) | Retrieval-based AI system | LangChain |
+### 🔹 Thiqa — AI-Powered Seller Trust Verification
+- Built an end-to-end Arabic scam detection pipeline combining OCR, LLM classification, and structured verdicts  
+- Designed a weighted trust scoring system integrating credibility signals and AI detection  
+- Achieved **100% classification accuracy** using few-shot prompting on LLaMA 3.3  
+
+**Stack:** Python · FastAPI · Transformers · EasyOCR · Groq API  
+
+---
+
+### 🔹 Language-Guided Robotics
+- Designed NLP pipeline translating natural language instructions into embeddings for RL policies  
+- Built and validated a **500+ instruction dataset** with semantic consistency checks  
+- Integrated NLP module into PPO-based robotic control system  
+
+**Stack:** PyTorch · sentence-transformers · RL · PyBullet  
+
+---
+
+### 🔹 Multi-Agent AutoML System
+- Designed a modular multi-agent architecture (planner, executor, critic)  
+- Ensured reproducible and traceable ML workflows  
+- Built extensible experimentation framework  
+
+**Stack:** Python · scikit-learn  
+
+---
+
+### 🔹 Full-Stack Advertising Platform (Internship @ Gnovex)
+- Built a production-ready platform for remote screen management  
+- Implemented real-time sync with WebSockets + offline recovery  
+- Deployed on real hardware systems  
+
+**Stack:** Django · React · PostgreSQL · Linux  
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=CBA6F7" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=CBA6F7" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmessaoud&layout=compact&theme=tokyonight&title_color=CBA6F7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=C4B5FD" height="160"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🌐 Connect
 
-[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalmessaoud&bg_color=1a1b27&color=CBA6F7&line=CBA6F7&point=E9D8FD&area=true&hide_border=true)](https://github.com/amalmessaoud)
-
----
-
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
+- 💼 https://linkedin.com/in/amal-messaoud  
+- 📧 ma_messaoud@esi.dz  
 
 ---
 
 <p align="center">
-  💜 Built with vibes, coffee & late-night coding
+  ✦ Building intelligent systems with elegance & precision ✦
 </p>
