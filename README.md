@@ -47,9 +47,9 @@
 
 | Project | Description | Stack |
 |--------|------------|------|
-| [Cheqit](https://github.com/YOUR_USERNAME/cheqit) | Habit accountability app with groups & stats | Next.js, MongoDB |
-| [AI Scam Detector](https://github.com/YOUR_USERNAME/project) | Classifies scam messages in Algerian dialect | Python, ML |
-| [RAG System](https://github.com/YOUR_USERNAME/project) | Retrieval-based AI system | LangChain |
+| [Cheqit](https://github.com/amalmessaoud/cheqit) | Habit accountability app with groups & stats | Next.js, MongoDB |
+| [AI Scam Detector](https://github.com//project) | Classifies scam messages in Algerian dialect | Python, ML |
+| [RAG System](https://github.com/amalmessaoud/project) | Retrieval-based AI system | LangChain |
 
 ---
 
@@ -58,19 +58,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=CBA6F7" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=CBA6F7" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=CBA6F7" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=CBA6F7" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=CBA6F7"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmessaoud&layout=compact&theme=tokyonight&title_color=CBA6F7"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=CBA6F7&line=CBA6F7&point=E9D8FD&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalmessaoud&bg_color=1a1b27&color=CBA6F7&line=CBA6F7&point=E9D8FD&area=true&hide_border=true)](https://github.com/amalmessaoud)
 
 ---
 
