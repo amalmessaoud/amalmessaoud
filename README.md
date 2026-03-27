@@ -44,42 +44,6 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 🚀 Selected Projects
-
-### 🔹 Thiqa — AI-Powered Seller Trust Verification
-- Built an end-to-end Arabic scam detection pipeline combining OCR, LLM classification, and structured verdicts  
-- Designed a weighted trust scoring system integrating credibility signals and AI detection  
-- Achieved **100% classification accuracy** using few-shot prompting on LLaMA 3.3  
-
-**Stack:** Python · FastAPI · Transformers · EasyOCR · Groq API  
-
----
-
-### 🔹 Language-Guided Robotics
-- Designed NLP pipeline translating natural language instructions into embeddings for RL policies  
-- Built and validated a **500+ instruction dataset** with semantic consistency checks  
-- Integrated NLP module into PPO-based robotic control system  
-
-**Stack:** PyTorch · sentence-transformers · RL · PyBullet  
-
----
-
-### 🔹 Multi-Agent AutoML System
-- Designed a modular multi-agent architecture (planner, executor, critic)  
-- Ensured reproducible and traceable ML workflows  
-- Built extensible experimentation framework  
-
-**Stack:** Python · scikit-learn  
-
----
-
-### 🔹 Full-Stack Advertising Platform (Internship @ Gnovex)
-- Built a production-ready platform for remote screen management  
-- Implemented real-time sync with WebSockets + offline recovery  
-- Deployed on real hardware systems  
-
-**Stack:** Django · React · PostgreSQL · Linux  
-
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
