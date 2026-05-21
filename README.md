@@ -2,13 +2,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:E9D5FF&height=220&section=header&text=Messaoud%20Amal&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+Student;NLP+%26+Agentic+AI+Researcher;Building+Real+World+AI+Systems;Hackathons+%26+Innovation" />
+  <img src="https://komarev.com/ghpvc/?username=amalmessaoud&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+%26+Data+Science+Student;Curious+by+Nature.+Builder+by+Practice.;Building+AI+That+Means+Something." />
 </p>
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I am a fourth-year Computer Science engineering student specializing in Intelligent Systems and Data, with a strong focus on machine learning and modern AI paradigms including Natural Language Processing and agentic systems. I enjoy translating theoretical concepts into real-world applications through hands-on projects, datathons, and system design. My work spans from building full-stack platforms to developing end-to-end AI pipelines, with a particular interest in creating reliable, explainable, and production-ready intelligent systems. I am currently seeking AI-oriented internship opportunities where I can deepen my expertise and contribute to impactful, data-driven solutions.
 
@@ -16,7 +21,7 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 🧠 AI & Data
+## AI & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,7 +31,7 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
   <img src="https://img.shields.io/badge/NumPy-C4B5FD?style=for-the-badge&logo=numpy&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-DDD6FE?style=for-the-badge&logo=pandas&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-EDE9FE?style=for-the-badge&logo=jupyter&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gymnasium-7C3AED?style=for-the-badge&logo=openaigym&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gymnasium-7C3AED?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MuJoCo-6D28D9?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq_API-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
@@ -36,7 +41,7 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 ---
 
-## 🛠 Engineering Stack
+## Engineering Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -58,7 +63,11 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📊 GitHub
+## GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amalmessaoud&theme=discord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD&border_color=6D28D9" height="160"/>
@@ -75,7 +84,7 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 ---
 
-## 🌐 Connect
+## Connect
 
 - 💼 https://linkedin.com/in/amal-messaoud  
 - 📧 ma_messaoud@esi.dz  
@@ -83,7 +92,7 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 ---
 
 <p align="center">
-  Turning complexity into clarity, one model at a time.
+  ✦ Rigorous by nature. Pragmatic by choice. ✦
 </p>
 
 <p align="center">
