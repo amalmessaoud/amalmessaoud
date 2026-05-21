@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:E9D5FF&height=220&section=header&text=Messaoud%20Amal&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+Student;AI+%26+ML+Enthusiast;Building+Real+World+AI+Systems;Hackathons+%26+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+Student;NLP+%26+Agentic+AI+Researcher;Building+Real+World+AI+Systems;Hackathons+%26+Innovation" />
 </p>
 
 ---
@@ -19,10 +18,18 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 ## 🧠 AI & Data
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-A78BFA?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-E9D5FF?style=for-the-badge&logo=huggingface&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-A78BFA?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-C4B5FD?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-DDD6FE?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-EDE9FE?style=for-the-badge&logo=jupyter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gymnasium-7C3AED?style=for-the-badge&logo=openaigym&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-6D28D9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_API-8B5CF6?style=for-the-badge&logoColor=white"/>
+</p>
 
 🟣 NLP • LLM Prompting • Agentic Systems • Multi-Agent Design  
 🟣 Data Analysis • Feature Engineering • Model Evaluation  
@@ -31,11 +38,18 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 ## 🛠 Engineering Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-C4B5FD?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-6D28D9?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-E9D5FF?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-A78BFA?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-C4B5FD?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-DDD6FE?style=for-the-badge&logo=django&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-EDE9FE?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 🟣 Full-Stack Development • REST APIs • WebSockets  
 🟣 System Design • Scalable Architectures  
@@ -44,15 +58,19 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=C4B5FD" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD&border_color=6D28D9" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=C4B5FD&fire=A78BFA&currStreakLabel=C4B5FD&border=6D28D9" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmessaoud&layout=compact&theme=tokyonight&title_color=C4B5FD&border_color=6D28D9&langs_count=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalmessaoud&theme=tokyo-night&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=false&border_color=6D28D9"/>
 </p>
 
 ---
@@ -65,5 +83,9 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 ---
 
 <p align="center">
-  ✦ Building intelligent systems with elegance & precision ✦
+  Turning complexity into clarity, one model at a time.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,100:6D28D9&height=100&section=footer"/>
 </p>
