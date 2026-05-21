@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalmessaoud&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=C4B5FD&center=true&vCenter=true&width=500&lines=Intelligent+Systems+%26+Data+Science+Student;Curious+by+Nature.+Builder+by+Practice.;Building+AI+That+Means+Something." />
 </p>
 
@@ -70,12 +66,12 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD&border_color=6D28D9" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amalmessaoud&show_icons=true&theme=tokyonight&title_color=C4B5FD&icon_color=C4B5FD&border_color=6D28D9" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmessaoud&theme=tokyonight&ring=C4B5FD&fire=A78BFA&currStreakLabel=C4B5FD&border=6D28D9" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmessaoud&layout=compact&theme=tokyonight&title_color=C4B5FD&border_color=6D28D9&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amalmessaoud&layout=compact&theme=tokyonight&title_color=C4B5FD&border_color=6D28D9&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
@@ -88,6 +84,10 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 - 💼 https://linkedin.com/in/amal-messaoud  
 - 📧 ma_messaoud@esi.dz  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amalmessaoud&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
