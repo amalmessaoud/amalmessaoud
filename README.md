@@ -82,7 +82,8 @@ I am a fourth-year Computer Science engineering student specializing in Intellig
 
 ## Connect
 
-- 💼 https://linkedin.com/in/amal-messaoud  
+- 💼 https://linkedin.com/in/amal-messaoud
+- 📌 https://amalmessaoud.github.io/
 - 📧 ma_messaoud@esi.dz  
 
 <p align="center">
